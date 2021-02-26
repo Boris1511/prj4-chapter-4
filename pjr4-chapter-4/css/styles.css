@@ -1,9 +1,9 @@
-#my-id {color: pink;font-style: itanic; }
+#my-id {color: pink;font-family: itanic; }
 
 .my-class {background-color: green; text-decoration: underline; text-align: center; }
 
-p {font-style: times new roman; font-weight: bold; }
+p {font-family: times new roman; font-weight: bold; }
 
-h2 {font-style: ariel; color: purple;}
+h2 {font-family: ariel; color: purple;}
 
 .my-container {border-style: solid; padding: 10px}
