@@ -1,9 +1,15 @@
-#my-id {color: pink;font-family: itanic; }
+* { margin: 0; padding: 0; border: 0; font-size: 100%; } 
 
-.my-class {background-color: green; text-decoration: underline; text-align: center; }
+   .my-class {text-align: center; 
+ }
 
-p {font-family: times new roman; font-weight: bold; }
+p {font-weight: bold; 
+   margin-left:50px;
+   margin-right:50px;
+  }
 
-h2 {font-family: ariel; color: purple;}
+   .box {border-style: solid; padding: 0px; background-color: pink;}
 
-.my-container {border-style: solid; padding: 10px}
+* {font-family: 'PT Serif', serif;}
+
+   h1 {background-image: url(../images/background.jpg);}
